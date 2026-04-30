@@ -1,0 +1,16 @@
+﻿,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AOV per Month,,,Revenue Per Country,,,,Revenue Contribution Per Country,,,Revenue Per Region,,,,Revenue Per Region,,,,,Revenue Per Channel,,,,,Discount Code Analysis,,,,,,RFM Customer Class,
+months,avg_value,,country,total_revenue,,,country,prcnt_rev,,region,total_revenue,prcnt_rev,,region,total_revenue,total_orders,avg_order_value,,channel,revenue,prcnt_of_revenue,,,discount_code,Discount Value ($),Revenue from Discount ($),revenue_generated_per_discount_use,times_used,,customer_class,total_class
+Jan, $633.03 ,,Brazil,1492809.25,,,United States,26.94,,EU,13692543.66,0.4301,,NA,11771047.48,19579,601.21,,Partner,3252220.81,0.1022,,,EDU20," $14,477.42 "," $65,168.75 ", $415.09 ,157,,Champion,779
+Feb, $647.58 ,,Philippines,1683034.95,,,United Kingdom,15.82,,NA,11771047.48,0.3698,,APAC,4875881.09,7306,667.38,,Marketplace,3344149.16,0.1051,,,STUDENT20," $20,925.74 "," $94,554.27 ", $566.19 ,167,,Loyal,809
+Mar, $696.11 ,,Spain,1708087.78,,,Australia,10.03,,APAC,4875881.09,0.1532,,EU,13692543.66,19040,719.15,,Reseller,4455871,0.14,,,EDU10," $9,782.85 "," $96,483.92 ", $630.61 ,153,,New Customer,512
+Apr, $696.08 ,,Netherlands,1823466.84,,,Canada,10.03,,LATAM,1492809.25,0.0469,,LATAM,1492809.25,2075,719.43,,Direct Sales,6359903.49,0.1998,,,EDU15," $15,612.49 "," $100,502.27 ", $601.81 ,167,,At Risk,812
+May, $629.16 ,,France,2440865.25,,,Germany,8.44,,,,,,,,,,,Website,14420137.02,0.453,,,STUDENT15," $16,366.84 "," $105,339.25 ", $731.52 ,144,,Lost,788
+Jun, $678.77 ,,Germany,2685114.73,,,France,7.67,,,,,,,,,,,,,,,,STUDENT10," $11,721.70 "," $119,223.16 ", $794.82 ,150,,Potential,300
+Jul, $671.40 ,,Australia,3192846.14,,,Netherlands,5.73,,,,,,,,,,,,,,,,SALE15," $73,753.89 "," $417,939.00 ", $511.55 ,817,,,
+Aug, $640.73 ,,Canada,3194218.95,,,Spain,5.37,,,,,,,,,,,,,,,,LOYALTY15," $176,723.71 "," $1,185,063.72 ", $651.49 ,1819,,,
+Sep, $668.37 ,,United Kingdom,5035009.06,,,Philippines,5.29,,,,,,,,,,,,,,,,BFCM20," $332,322.37 "," $1,519,118.93 ", $573.47 ,2649,,,
+Oct, $671.51 ,,United States,8576828.53,,,Brazil,4.69,,,,,,,,,,,,,,,,BFCM10," $155,515.60 "," $1,575,201.87 ", $591.07 ,2665,,,
+Nov, $679.64 ,,,,,,,,,,,,,,,,,,,,,,,WELCOME10," $171,242.83 "," $1,732,866.17 ", $634.75 ,2730,,,
+Dec, $660.20 ,,,,,,,,,,,,,,,,,,,,,,,SAVE5," $81,865.46 "," $1,745,219.24 ", $655.60 ,2662,,,
+,,,,,,,,,,,,,,,,,,,,,,,,NEWCUSTOMER10," $175,422.67 "," $1,768,091.61 ", $654.85 ,2700,,,
